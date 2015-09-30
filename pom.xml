@@ -4,7 +4,7 @@
   <groupId>com.devi.helloworld</groupId>
   <artifactId>helloworld</artifactId>
   <packaging>jar</packaging>
-  <version>3.0-rc-SNAPSHOT</version>
+  <version>3.0.1-rc-SNAPSHOT</version>
   <name>helloworld</name>
   <url>http://maven.apache.org</url>
   <dependencies>
